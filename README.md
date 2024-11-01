@@ -140,6 +140,8 @@ The above input will generate an SVG file called `logo.svg` inside the `examples
 ![](/images/screenshot2.png "Second screenshot")
 ![](/images/screenshot3.png "Third screenshot")
 ![](/images/screenshot4.png "Fourth screenshot")
+![](/images/screenshot-svg_logo.png "Fifth screenshot")
+
 
 
 ## GitHub Deployment Location (HTTPS)
