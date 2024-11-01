@@ -11,7 +11,7 @@
 - [Directory Structure](#directory-structure)
 - [Project Structure Details](#project-structure-details)
 - [Example](#example)
-- [Webpage Screenshots](#webpage-screenshots)
+- [Application Screenshots](#application-screenshots)
 - [GitHub Deployment Location (HTTPS)](#github-deployment-location-https)
 - [GitHub Repository Location](#github-repository-location)
 - [Credits](#credits)
@@ -45,7 +45,7 @@ To run this project locally, follow these steps:
 
 1. Clone the repository:
    ```sh
-   git clone <repository-url>
+   git clone git@github.com:Hammarou/SVG-Logo-Generator.git
    ```
 
 2. Navigate to the project directory:
@@ -125,7 +125,36 @@ Here is an example of the prompts you might see and the resulting output:
 
 The above input will generate an SVG file called `logo.svg` inside the `examples/` folder with the specified shape, colors, and text.
 
+
+## Application Screenshots
+
+### Test Application
+
+![](/images/screenshot1_test.png "First screenshot")
+![](/images/screenshot2_test.png "Second screenshot")
+
+
+### Run Application
+
+![](/images/screenshot1.png "First screenshot")
+![](/images/screenshot2.png "Second screenshot")
+![](/images/screenshot3.png "Third screenshot")
+![](/images/screenshot4.png "Fourth screenshot")
+
+
+## GitHub Deployment Location (HTTPS)
+
+N/A
+
+* Note: The **SVG Logo Generator** is a node.js command line interface (CLI) application. Therefore, it cannot be hosted through an internet browser. 
+
+## GitHub Repository Location
+
+https://github.com/Hammarou/SVG-Logo-Generator
+
 ## Credits
+
+N/A
 
 ## Contribution
 
@@ -134,4 +163,4 @@ Feel free to fork this project, submit issues, or make pull requests if you have
 
 ## License
 
-This project is licensed under the [HERE License](LICENSE).
+This project is licensed under the [MIT](LICENSE) license.
