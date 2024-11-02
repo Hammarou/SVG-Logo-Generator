@@ -169,7 +169,7 @@ N/A
 
 ## Contribution
 
-Feel free to fork this project, submit issues, or make pull requests if you have suggestions or improvements. Contributions are welcome!
+Feel free to fork this application, submit issues, or make pull requests if you have suggestions or improvements. Contributions are welcome!
 
 
 ## License
