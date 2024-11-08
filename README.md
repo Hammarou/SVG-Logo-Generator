@@ -33,7 +33,9 @@ The **SVG Logo Generator** is a Node.js command-line application that helps you 
 - Choose text and shape colors.
 - Generates the SVG logo and saves it in an `examples/` directory.
 
+
 ## Technologies Used
+
 - **Node.js**: Runtime environment for executing JavaScript server-side.
 - **Inquirer.js**: A popular npm package for handling user input via the command line.
 - **Jest**: Testing framework to ensure the functionality of the logo generation process.
